@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bubuding0809
-- 👀 I’m interested in ... fullstack, web3, computer vision, natural language processing
+- 👀 I’m interested in ... full-stack development, web3, computer vision, natural language processing
 - 🌱 I’m currently learning ... computering engineering 
 - 💞️ I’m looking to collaborate on ... many projets
 - 📫 How to reach me ...
